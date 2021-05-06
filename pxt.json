@@ -5,7 +5,8 @@
     "license": "MIT",
     "dependencies": {
         "core": "*",
-        "neopixel": "github:COOLPON2014/pxt-neopixel"
+        "neopixel": "github:lzty634158/pxt-neopixel"
+         "Croco-Kit": "github:COOLPON2014/Croco-Kit"
     },
     "files": [
         "README.md",
