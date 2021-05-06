@@ -1,11 +1,11 @@
 {
     "name": "BasicBit",
     "version": "2.0.0",
-    "description": "Extension for COOLPON SuperBit V2.0",
+    "description": "Extension for COOLPON BasicBit V2.0",
     "license": "MIT",
     "dependencies": {
         "core": "*",
-        "neopixel": "github:lzty634158/pxt-neopixel"
+        "neopixel": "github:COOLPON2014/pxt-neopixel"
     },
     "files": [
         "README.md",
