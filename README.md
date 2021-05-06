@@ -1,6 +1,6 @@
-# SuperBit
+# BasicBit
 
-Extension for Yahboom SuperBit V1.0
+Extension for COOLPON BasicBit V1.0
 
 ## License
 
