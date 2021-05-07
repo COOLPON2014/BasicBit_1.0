@@ -5,7 +5,7 @@
     "license": "MIT",
     "dependencies": {
         "core": "*",
-        "neopixel": "github:COOLPON2014/pxt-neopixel"
+        "neopixel": "github:COOLPON2014/pxt-neopixel-microsoft"
        
     },
     "files": [
